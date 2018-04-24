@@ -360,7 +360,7 @@ data-fouc-class-names="swift-loading"
         <span class="Icon Icon--follower Icon--small"></span>
         <span class="typeahead-in-conversation-text">En esta conversación</span>
       </div>
-      <img class="avatar size32" alt="">
+      <img class="avatar size32" alt="" src=#>
       <span class="typeahead-user-item-info account-group">
         <span class="fullname"></span><span class="UserBadges"><span class="Icon Icon--verified js-verified hidden"><span class="u-hiddenVisually">Cuenta verificada</span></span><span class="Icon Icon--protected js-protected hidden"><span class="u-hiddenVisually">Tweets Protegidos</span></span></span><span class="UserNameBreak">&nbsp;</span><span class="username u-dir" dir="ltr">@<b></b></span>
       </span>
@@ -400,7 +400,7 @@ data-fouc-class-names="swift-loading"
     <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
       
       <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
-        <img class="avatar size32" alt="">
+        <img class="avatar size32" alt="" src=#>
         <span class="typeahead-user-item-info account-group">
           <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
           <span class="select-status select-disabled Icon Icon--unfollow"></span>
@@ -447,9 +447,9 @@ data-fouc-class-names="swift-loading"
           <div class="media">
             <iframe
               class="quick-promote-iframe js-initial-focus"
-              scrolling="no"
-              frameborder="0"
-              src="">
+              
+              
+              src=#>
             </iframe>
           </div>
         </div>
@@ -733,7 +733,7 @@ data-fouc-class-names="swift-loading"
         <div class="why-this-ad-spinner">
           <div class="spinner-bigger"></div>
         </div>
-        <iframe id="why-this-ad-frame" class="hidden" aria-hidden="true" scrolling="auto">
+        <iframe id="why-this-ad-frame" class="hidden" aria-hidden="true" >
         </iframe>
       </div>
     </div>
@@ -854,7 +854,7 @@ data-fouc-class-names="swift-loading"
       </div>
       <div class="modal-body">
         
-<table id="sms_codes" cellpadding="0" cellspacing="0">
+<table id="sms_codes" >
   <thead>
     <tr>
       <th>País</th>
@@ -943,9 +943,9 @@ data-fouc-class-names="swift-loading"
           <div class="media">
             <iframe
               class="cards2-promotion-iframe"
-              scrolling="no"
-              frameborder="0"
-              src="">
+              
+              
+              src=#>
             </iframe>
           </div>
         </div>
@@ -974,11 +974,11 @@ data-fouc-class-names="swift-loading"
           <div class="media">
             <iframe
               class="auth-webview-card-iframe js-initial-focus"
-              scrolling="no"
-              frameborder="0"
-              width="590px"
-              height="500px"
-              src="">
+              
+              
+              width="590"
+              height="500"
+              src=#>
             </iframe>
           </div>
         </div>
